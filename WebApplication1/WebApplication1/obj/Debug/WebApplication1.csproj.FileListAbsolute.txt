@@ -1,0 +1,101 @@
+c:\users\dumbaa\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\dumbaa\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\dumbaa\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\dumbaa\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\dumbaa\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\It Complex\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\It Complex\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\It Complex\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\It Complex\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\It Complex\OneDrive\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\It Complex\OneDrive\Desktop\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\It Complex\OneDrive\Desktop\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\It Complex\OneDrive\Desktop\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\It Complex\OneDrive\Desktop\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\It Complex\OneDrive\Desktop\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x64\concrt140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x64\cvextern.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x64\msvcp140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x64\opencv_ffmpeg330_64.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x64\vcruntime140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x86\concrt140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x86\cvextern.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x86\msvcp140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x86\opencv_ffmpeg330.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\x86\vcruntime140.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Emgu.CV.UI.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Emgu.CV.World.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\ZedGraph.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Emgu.CV.UI.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Emgu.CV.World.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\ZedGraph.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\de\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\es\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\fr\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\hu\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\it\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\ja\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\pt\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\ru\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\sk\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\sv\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\tr\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\dll\x86\OpenCvSharpExtern.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\dll\x86\opencv_ffmpeg400.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\dll\x64\OpenCvSharpExtern.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Blob.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Extensions.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.UserInterface.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Blob.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Blob.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Extensions.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.Extensions.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.UserInterface.pdb
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\OpenCvSharp.UserInterface.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\GleamTech.Common.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\GleamTech.VideoUltimate.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\GleamTech.Common.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\GleamTech.VideoUltimate.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\DirectShowLib-2005.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Splicer.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\avcodec-57.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\avdevice-57.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\avfilter-6.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\avformat-57.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\avutil-55.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\postproc-54.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\swresample-2.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\swscale-4.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Accord.dll.config
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\FFMpegSharp.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\It Complex\Downloads\VideoEditor\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
